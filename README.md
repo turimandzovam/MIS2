@@ -1,5 +1,7 @@
 # jokesapp211193
 
+Laboratory exercise 2
+
 jokes app with api
 
 ## Getting Started
